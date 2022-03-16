@@ -1,0 +1,13 @@
+{
+  "id": "86c87daf-3395-4c8e-b63f-8cadb8f0245b",
+  "title": "SpringOne Tour Chicago",
+  "description": "Getting Started with GraphQL for Spring",
+  "startDate": "2022-04-26",
+  "endDate": "2022-04-27",
+  "type": "CONFERENCE",
+  "tags": [
+    "Spring Boot",
+    "GraphQL"
+  ],
+  "url": "https://tanzu.vmware.com/developer/springone-tour/"
+}
